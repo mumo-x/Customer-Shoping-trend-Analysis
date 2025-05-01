@@ -25,7 +25,7 @@ This repository contains a comprehensive analysis of shopping trends using R and
 
 ##  Tools & Technologies
 
-- **R** (analysis)
+- **R** (analysis) and Markdown
 - **Power BI** (data cleaning, data visualization)
 - **Excel** (raw data source)
 
