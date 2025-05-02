@@ -8,7 +8,7 @@ This repository contains a comprehensive analysis of shopping trends using R and
   R script for data loading, cleaning, transformation, and statistical analysis.
 
 - **`shopping_trends.xlsx`**  
-  Original dataset containing raw shopping trend data including customer demographics, shopping frequency, and spending behavior.
+  Original downloaded dataset containing raw shopping trend data including customer demographics, shopping frequency, and spending behavior.
 
 - **`Data_cleaning,visualization,summary_statistics.pbix`**  
   Power BI dashboard that visualizes key insights such as shopping frequency by gender and category, spending patterns, and age-wise behavior analysis.
